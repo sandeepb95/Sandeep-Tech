@@ -61,7 +61,7 @@ cd metasploit-framework-4.14.28
 echo "###############################"
 echo "Original Work BY Vishalbiswani& Auxilus,Thanks  To  Vishalbiswani& Auxilus For The Code "
 echo "###############################"
-figlet TECHNICAL BHARAT
+figlet SANDEEP TECH
 echo "###############################################"
 echo "Subscribe The Channel SANDEEP TECH"
 figlet SUBSCRIBE
